@@ -12,5 +12,5 @@ Installation:
 
 Caveats:
 - You must already own the Improved Sorting extension for Magento 1
-- This extension was written for OpenMage, not Magento 1
-- I don't work for Amasty
+- This extension was developed with OpenMage Magento LTS 20.3.0 and Amasty Improved Sorting v1.4.14
+- I am in no way affiliated with Amasty
