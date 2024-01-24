@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Threeprong_Sorting>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Amasty_Sorting />
+            </depends>
+        </Threeprong_Sorting>
+    </modules>
+</config>
