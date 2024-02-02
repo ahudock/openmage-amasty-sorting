@@ -1,6 +1,6 @@
 # Amasty Improved Sorting for OpenMage / PHP 8
 
-Adds OpenMage / PHP 8.2+ compatibility to Amasty's [Improved Sorting](https://amasty.com/improved-sorting.html) extension for Magento 1.
+Adds OpenMage / PHP 8.2 compatibility to Amasty's [Improved Sorting](https://amasty.com/improved-sorting.html) extension for Magento 1.
 
 Depends: 
 Amasty_Sorting
