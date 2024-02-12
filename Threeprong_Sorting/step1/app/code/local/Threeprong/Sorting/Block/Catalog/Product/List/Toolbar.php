@@ -1,7 +1,12 @@
 <?php
 /**
- * @package    Threeprong_Sorting
+ * @author Amasty Team
+ * @copyright Copyright (c) Amasty Ltd. ( http://www.amasty.com/ )
+ * @package Amasty_Sorting
+ */
+/**
  * @author     Andy Hudock <ahudock@pm.me>
+ * @package    Threeprong_Sorting
  *
  * Overwrite Toolbar to add PHP 8.2 compatibility to Amasty's Sorting module
  */
